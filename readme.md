@@ -15,7 +15,7 @@
  
 
 
-[Clique aqui para acessar o site](https://washingtongomes.github.io/react-vite-api/)
+[Clique aqui para acessar o site Vercel](https://react-vite-api-washington.vercel.app/)
 
 
 ## Referência:
